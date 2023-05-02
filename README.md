@@ -1,10 +1,11 @@
 
-## ABOUT:
+## ABOUT THIS PROJECT
 
 The project was done as part of final submission for IS843 - "Big Data Analytics for Business" for Questrom School Of Business in Spring,2023.
 
 The project was under guidance of our professor Mohammad Soltanieh-ha.
 
+We executed the code in Pyspark environment using google console to create DataProc cluster with three nodes.
 
 ## Table of Content:
 - [Introduction](#introductionn)
@@ -143,7 +144,7 @@ We had lot of key insights. Some of them are:
  - Most business accounts post a lot but have negligible growth in 'likes' received.
  - Users are typically active for about 1-4 months, after which activity declines rapidly.
 
-### License
+## License
 Jupyter will always be 100% open-source software, free for all to use and released under the liberal terms of the modified BSD license.
 Link - https://jupyter.org/about
 
