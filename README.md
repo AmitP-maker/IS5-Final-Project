@@ -18,7 +18,7 @@ The project was under guidance of our professor Mohammad Soltanieh-ha.
 - [Supervised Machine Learning](#supervised-machine-learning)
     - [Pipeline](#pipeline)
     - [Random Forest Regressor](#random-forest-regressor)
-    - [Linear vs RandomForest Regression](#linear-vs-randomwforest-regression] 
+    - [Linear vs RandomForest Regression](#linear-vs-randomforest-regression] 
 - [Profile Based Analysis](#profile-based-analysis)
     - [RFormula](#rformula)
     - [Subscriber Stickiness](#subscriber-stickiness)
